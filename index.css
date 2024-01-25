@@ -5,11 +5,11 @@
 }
 
 :root {
-    --color-one : hsl(300,43%,22%);
-    --color-two: hsl(333,80%,67%);
-    --color-three: hsl(303,10%,53%);
-    --color-four: hsl(300,24%,96%);
-    --color-five: hsl(0,0%,100%);
+    --color-one : hsl(300 43% 22%);
+    --color-two: hsl(333 80% 67%);
+    --color-three: hsl(303 10% 53%);
+    --color-four: hsl(300 24% 96%);
+    --color-five: hsl(0 0% 100%);
     --main-font : 'League Spartan', sans-serif;
 }
 
