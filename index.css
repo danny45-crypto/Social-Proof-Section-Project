@@ -198,7 +198,7 @@ a {
 }
 
 
-@media (min-width: 700px) {
+@media (min-width: 43.8rem) {
     body {
         display: flex;
         min-height: 100vh;
