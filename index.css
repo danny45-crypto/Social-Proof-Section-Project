@@ -102,7 +102,7 @@ a {
     transition-property: all;
  &:hover {
     background: #000;
-    transform: rotateZ(25deg) scale(.8);
+    transform: rotateZ(45deg) scale(.8);
  }   
 }
 
